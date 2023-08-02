@@ -9,5 +9,4 @@ which can be instantiated with ease. The program can calculate their expectation
 operations between random variables (addition, subtraction, multiply and divide by a constant). 
 It also contains implemented statistical tests like one and two-sample u- and t-test and F-test. 
 
-This text above is a brief summary of the code. You can also read the whole documentation with detailed descriptions 
-in 'Documentation.pdf'.
+You can also read the whole documentation with detailed descriptions in 'Documentation.pdf'.
